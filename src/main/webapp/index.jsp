@@ -38,7 +38,7 @@ height:400px;
 <h2>Contact us:-</h2>
 
 <h2>Polarapu Prasad</h2>
-<h2>+91-8383917484</h2>
+<h2>+91-8125828286</h2>
 
 </div>
 </div>
