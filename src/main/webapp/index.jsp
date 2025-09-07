@@ -37,7 +37,7 @@ height:400px;
 <br>
 <h2>Contact us:-</h2>
 
-<h2>Nallabothula Shanmuka SriRam</h2>
+<h2>N Shanmuka SriRam</h2>
 <h2>8125828286, 8125215214</h2>
 
 </div>
